@@ -1,3 +1,9 @@
+![Arduino](https://img.shields.io/badge/Arduino-C++-blue)
+![Platform](https://img.shields.io/badge/Platform-Embedded-orange)
+![Status](https://img.shields.io/badge/Status-Student_Project-success)
+
+
+
 # 🌫️ Dust & Humidity Monitoring Project
 
 โปรเจกต์นี้เป็น **เครื่องตรวจจับฝุ่นละออง (PM2.5) และความชื้นในอากาศ**  
