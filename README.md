@@ -95,3 +95,13 @@ SDA  -> D4
 
 ---
 
+## 🔏that cannot be done
+
+<img src="https://github.com/user-attachments/assets/0fb990db-f247-4b04-8bb4-13370c286249" width="600">  <img src="https://github.com/user-attachments/assets/7f33e10c-d822-4f56-a7ee-465f01dba902" width="600">
+
+ บอร์ดพังเเละ library ของผู้ผลิตไม่มีให้ Downloads เเล้ว
+
+
+
+```com
+https://wokwi.com/projects/453679490226097153
