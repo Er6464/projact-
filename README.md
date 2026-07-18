@@ -74,7 +74,7 @@
 
 <img width="450" height="443" alt="Screenshot 2026-01-20 225930" src="https://github.com/user-attachments/assets/3c16dbe2-4bba-4014-b382-0ad6c2a05bb5" />
 
-[Wokwi](https://wokwi.com/projects/453679490226097153)
+> [Wokwi](https://wokwi.com/projects/453679490226097153)
 
 
 
